@@ -1,4 +1,4 @@
-# PVPwars-altchecker
+# PVP-altchecker
 PVPwars Alt checker
 
 Use this at your own risk :)
