@@ -6,7 +6,7 @@ Use this at your own risk :)
 This is version 1 
 
 To use:
-1) Diwnload the file
+1) Download the file
 2) Open the file
 3) run v1.exe
 4) Enter your account name 
